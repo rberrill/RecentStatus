@@ -6,7 +6,7 @@
 [*]  All rights reserved
  ****************************************************/
 
- class RecentStatus_Controller_Public extends XFCP_RecentStatus_Controller_Public
+ class RCBD_RecentStatus_Controller_Public extends XFCP_RCBD_RecentStatus_Controller_Public
 {
 	public function actionIndex()
 	{

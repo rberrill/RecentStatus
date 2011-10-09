@@ -6,7 +6,7 @@
 [*]  All rights reserved
  ****************************************************/
 
-class RecentStatus_Listener_Listener
+class RCBD_RecentStatus_Listener_Listener
 {
     public static function listen($class, array &$extend)
     {

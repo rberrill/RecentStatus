@@ -6,7 +6,7 @@
 [*]  All rights reserved
  ****************************************************/
 
-class RecentStatus_Listener_TemplateHook
+class RCBD_RecentStatus_Listener_TemplateHook
 {
 	public static function template_hook($name, &$contents, array $params, XenForo_Template_Abstract $template)
 	{

@@ -1,6 +1,6 @@
 <?php
 /****************************************************
-[*]  XenForo Addon: RecentStatus
+[*]  XenForo Addon: RecentStatus v4.0.0
 [*]  http://www.rcbdesigns.net
 [*]  Copyright 2011 RCB Designs
 [*]  All rights reserved
